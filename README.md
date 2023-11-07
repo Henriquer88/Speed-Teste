@@ -144,4 +144,4 @@ if __name__ == "__main__":
             print("Não foi possível realizar o teste de velocidade.")
 
         time.sleep(CHECK_INTERVAL_SECONDS)
-```javascript
+```
